@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">forums</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bottom_menu_characters_title">Characters</string>
+    <string name="bottom_menu_episodes_title">Episodes</string>
+    <string name="bottom_menu_location_title">Locations</string>
+    <string name="full_name_profile">Full Name</string>
+    <string name="specie_profile">"Specie"</string>
+    <string name="gender_profile">Gender</string>
+    <string name="status_profile">Status</string>
+    <string name="location_name_profile">Location</string>
+</resources>
